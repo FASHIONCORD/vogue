@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 00:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 01:58:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 패션계가 가장 선호하는 매력, 클로이 오 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%ec%a7%80%ea%b8%88-%ed%8c%a8%ec%85%98%ea%b3%84%ea%b0%80-%ea%b0%80%ec%9e%a5-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-%eb%a7%a4%eb%a0%a5-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%ec%a7%80%ea%b8%88-%ed%8c%a8%ec%85%98%ea%b3%84%ea%b0%80-%ea%b0%80%ec%9e%a5-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-%eb%a7%a4%eb%a0%a5-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</guid>
+            <pubDate>Mon, 04 Oct 2021 01:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[손기호]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615594f947d51-400x502.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Every Day, Every Moment (보그 코리아 ─ 패션)]]></title>
             <link>https://www.vogue.co.kr/2021/10/01/every-day-every-moment/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
             <content:encoded><![CDATA[보그 프리랜서]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615131b4e8616-400x457.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이성경의 빛과 그림자 (보그 코리아 ─ 패션)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/27/%ec%9d%b4%ec%84%b1%ea%b2%bd%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ea%b7%b8%eb%a6%bc%ec%9e%90/</link>
-            <guid>https://www.vogue.co.kr/2021/09/27/%ec%9d%b4%ec%84%b1%ea%b2%bd%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ea%b7%b8%eb%a6%bc%ec%9e%90/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[보연 허]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151199e3db31-400x502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anxiety Brows (보그 코리아 ─ 뷰티)]]></title>

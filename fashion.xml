@@ -4,7 +4,7 @@
         <title>보그 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 07:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 08:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 05 Oct 2021 02:19:41 GMT</pubDate>
             <content:encoded><![CDATA[남현지]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615b9c7206b8e-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모던 패밀리]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%eb%aa%a8%eb%8d%98-%ed%8c%a8%eb%b0%80%eb%a6%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%eb%aa%a8%eb%8d%98-%ed%8c%a8%eb%b0%80%eb%a6%ac/</guid>
+            <pubDate>Tue, 05 Oct 2021 08:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[보연 허]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615bf84dafa73-400x267.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 패션계가 가장 선호하는 매력, 클로이 오]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
             <content:encoded><![CDATA[광고팀]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151471cd0656-400x225.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[끊이지 않은 도쿄의 불빛을 따라서]]></title>
-            <link>https://www.vogue.co.kr/2021/09/28/%eb%81%8a%ec%9d%b4%ec%a7%80-%ec%95%8a%ec%9d%80-%eb%8f%84%ec%bf%84%ec%9d%98-%eb%b6%88%eb%b9%9b%ec%9d%84-%eb%94%b0%eb%9d%bc%ec%84%9c/</link>
-            <guid>https://www.vogue.co.kr/2021/09/28/%eb%81%8a%ec%9d%b4%ec%a7%80-%ec%95%8a%ec%9d%80-%eb%8f%84%ec%bf%84%ec%9d%98-%eb%b6%88%eb%b9%9b%ec%9d%84-%eb%94%b0%eb%9d%bc%ec%84%9c/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[광고팀]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151f19de639f-400x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

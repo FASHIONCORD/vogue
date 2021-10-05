@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 03:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 04:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 04 Oct 2021 01:56:29 GMT</pubDate>
             <content:encoded><![CDATA[손기호]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615594f947d51-400x502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올 셀러브리티 매니저가 사는 집 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</guid>
+            <pubDate>Tue, 05 Oct 2021 04:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ba3b4d7c90-400x509.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Every Day, Every Moment (보그 코리아 ─ 패션)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
             <content:encoded><![CDATA[광고팀]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151f19de639f-400x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카무플라주, 어떻게 입을까? (보그 코리아 ─ 패션)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/27/%ec%b9%b4%eb%ac%b4%ed%94%8c%eb%9d%bc%ec%a3%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9e%85%ec%9d%84%ea%b9%8c/</link>
-            <guid>https://www.vogue.co.kr/2021/09/27/%ec%b9%b4%eb%ac%b4%ed%94%8c%eb%9d%bc%ec%a3%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9e%85%ec%9d%84%ea%b9%8c/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[보그 프리랜서]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151338e8aabd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anxiety Brows (보그 코리아 ─ 뷰티)]]></title>
@@ -216,6 +216,14 @@
             <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615b9f37d3ad2-400x549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디올 셀러브리티 매니저가 사는 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</guid>
+            <pubDate>Tue, 05 Oct 2021 04:04:44 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ba3b4d7c90-400x509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족을 위한 에바 첸의 전원주택 (보그 코리아 ─ 리빙)]]></title>
             <link>https://www.vogue.co.kr/2021/10/01/%ea%b0%80%ec%a1%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%90%eb%b0%94-%ec%b2%b8%ec%9d%98-%ec%a0%84%ec%9b%90%ec%a3%bc%ed%83%9d/</link>
             <guid>https://www.vogue.co.kr/2021/10/01/%ea%b0%80%ec%a1%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%90%eb%b0%94-%ec%b2%b8%ec%9d%98-%ec%a0%84%ec%9b%90%ec%a3%bc%ed%83%9d/</guid>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_612edd4ca1dfa-400x534.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데미안 허스트의 시적이면서 강렬한 작품 ‘체리 블로섬’ (보그 코리아 ─ 리빙)]]></title>
-            <link>https://www.vogue.co.kr/2021/08/26/%eb%8d%b0%eb%af%b8%ec%95%88-%ed%97%88%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%8b%9c%ec%a0%81%ec%9d%b4%eb%a9%b4%ec%84%9c-%ea%b0%95%eb%a0%ac%ed%95%9c-%ec%9e%91%ed%92%88-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c/</link>
-            <guid>https://www.vogue.co.kr/2021/08/26/%eb%8d%b0%eb%af%b8%ec%95%88-%ed%97%88%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%8b%9c%ec%a0%81%ec%9d%b4%eb%a9%b4%ec%84%9c-%ea%b0%95%eb%a0%ac%ed%95%9c-%ec%9e%91%ed%92%88-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[vogue_print]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/08/style_61267509bc2b3-400x300.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프레데릭 말의 신작 스포일러 (보그 코리아 ─ 피플)]]></title>

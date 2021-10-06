@@ -4,9 +4,17 @@
         <title>보그 코리아 ─ 뷰티</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 00:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 01:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 새로운 단발병 유발자 4]]></title>
+            <link>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</guid>
+            <pubDate>Wed, 06 Oct 2021 01:51:45 GMT</pubDate>
+            <content:encoded><![CDATA[권민지]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615c2e0d036d3-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anxiety Brows]]></title>
             <link>https://www.vogue.co.kr/2021/09/30/anxiety-brows/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:15 GMT</pubDate>
             <content:encoded><![CDATA[이주현]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_614bc62842275-400x501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알코올 대신 이것!]]></title>
-            <link>https://www.vogue.co.kr/2021/09/18/%ec%95%8c%ec%bd%9c-%eb%8c%80%ec%8b%a0-%ec%9d%b4%ea%b2%83/</link>
-            <guid>https://www.vogue.co.kr/2021/09/18/%ec%95%8c%ec%bd%9c-%eb%8c%80%ec%8b%a0-%ec%9d%b4%ea%b2%83/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[우주연]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6144dd1ecbdf9-400x400.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

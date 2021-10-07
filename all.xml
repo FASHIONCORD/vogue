@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔로워 1위! <오징어 게임>의 정호연 스타일 탐구 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%ed%8c%94%eb%a1%9c%ec%9b%8c-1%ec%9c%84-%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84%ec%9d%98-%ec%a0%95%ed%98%b8%ec%97%b0-%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%83%90%ea%b5%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%ed%8c%94%eb%a1%9c%ec%9b%8c-1%ec%9c%84-%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84%ec%9d%98-%ec%a0%95%ed%98%b8%ec%97%b0-%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%83%90%ea%b5%ac/</guid>
+            <pubDate>Thu, 07 Oct 2021 06:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[권민지]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e67a9ae851-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥스트 톱 모델, 클로이 오 (보그 코리아 ─ 패션)]]></title>
             <link>https://www.vogue.co.kr/2021/10/06/%eb%84%a5%ec%8a%a4%ed%8a%b8-%ed%86%b1-%eb%aa%a8%eb%8d%b8-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153f489692b9-400x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스우파> 로잘린 먹튀 논란 (보그 코리아 ─ 패션)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/29/%ec%8a%a4%ec%9a%b0%ed%8c%8c-%eb%a1%9c%ec%9e%98%eb%a6%b0-%eb%a8%b9%ed%8a%80-%eb%85%bc%eb%9e%80/</link>
-            <guid>https://www.vogue.co.kr/2021/09/29/%ec%8a%a4%ec%9a%b0%ed%8c%8c-%eb%a1%9c%ec%9e%98%eb%a6%b0-%eb%a8%b9%ed%8a%80-%eb%85%bc%eb%9e%80/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[데일리 이슈]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61540a0a614cc-400x500.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[루이 비통과 향이라는 항해 (보그 코리아 ─ 뷰티)]]></title>

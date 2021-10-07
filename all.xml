@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 09:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 11:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153f81255b21-400x250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카라동물영화제 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%ec%b9%b4%eb%9d%bc%eb%8f%99%eb%ac%bc%ec%98%81%ed%99%94%ec%a0%9c/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%ec%b9%b4%eb%9d%bc%eb%8f%99%eb%ac%bc%ec%98%81%ed%99%94%ec%a0%9c/</guid>
+            <pubDate>Thu, 07 Oct 2021 11:03:51 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ebc0512d5e-400x267.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[19세기 라켓볼 코트였던 트로이 시반의 호주 멜버른 집 (보그 코리아 ─ 리빙)]]></title>
             <link>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</link>
             <guid>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</guid>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
             <content:encoded><![CDATA[광고팀]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_613837385ca8c-400x320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[런던으로 돌아온 지능형 마켓, IRL (보그 코리아 ─ 리빙)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/03/254907/</link>
-            <guid>https://www.vogue.co.kr/2021/09/03/254907/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[vogue_print]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_613063523686a-400x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프레데릭 말의 신작 스포일러 (보그 코리아 ─ 피플)]]></title>

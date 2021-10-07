@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 01:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61540a0a614cc-400x500.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[루이 비통과 향이라는 항해 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5%ea%b3%bc-%ed%96%a5%ec%9d%b4%eb%9d%bc%eb%8a%94-%ed%95%ad%ed%95%b4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5%ea%b3%bc-%ed%96%a5%ec%9d%b4%eb%9d%bc%eb%8a%94-%ed%95%ad%ed%95%b4/</guid>
+            <pubDate>Thu, 07 Oct 2021 01:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615d02cdde528-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021 새로운 단발병 유발자 4 (보그 코리아 ─ 뷰티)]]></title>
             <link>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</link>
             <guid>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</guid>
@@ -192,12 +200,12 @@
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153f81255b21-400x250.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이런 아이유의 얼굴, 본 적 있나요? (보그 코리아 ─ 뷰티)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/23/%ec%9d%b4%eb%9f%b0-%ec%95%84%ec%9d%b4%ec%9c%a0%ec%9d%98-%ec%96%bc%ea%b5%b4-%eb%b3%b8-%ec%a0%81-%ec%9e%88%eb%82%98%ec%9a%94/</link>
-            <guid>https://www.vogue.co.kr/2021/09/23/%ec%9d%b4%eb%9f%b0-%ec%95%84%ec%9d%b4%ec%9c%a0%ec%9d%98-%ec%96%bc%ea%b5%b4-%eb%b3%b8-%ec%a0%81-%ec%9e%88%eb%82%98%ec%9a%94/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[이주현]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_614bc62842275-400x501.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[19세기 라켓볼 코트였던 트로이 시반의 호주 멜버른 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</guid>
+            <pubDate>Thu, 07 Oct 2021 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615d0ca88e1de-400x533.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나와 하는 교신, 명상에 성공하는 법 (보그 코리아 ─ 리빙)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_613063523686a-400x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킴 존스의 매우 사적인 것들 (보그 코리아 ─ 리빙)]]></title>
-            <link>https://www.vogue.co.kr/2021/09/02/%ed%82%b4-%ec%a1%b4%ec%8a%a4%ec%9d%98-%eb%a7%a4%ec%9a%b0-%ec%82%ac%ec%a0%81%ec%9d%b8-%ea%b2%83%eb%93%a4/</link>
-            <guid>https://www.vogue.co.kr/2021/09/02/%ed%82%b4-%ec%a1%b4%ec%8a%a4%ec%9d%98-%eb%a7%a4%ec%9a%b0-%ec%82%ac%ec%a0%81%ec%9d%b8-%ea%b2%83%eb%93%a4/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[vogue_print]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_612edd4ca1dfa-400x534.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프레데릭 말의 신작 스포일러 (보그 코리아 ─ 피플)]]></title>

@@ -4,9 +4,17 @@
         <title>보그 코리아 ─ 리빙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 00:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 01:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[19세기 라켓볼 코트였던 트로이 시반의 호주 멜버른 집]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</guid>
+            <pubDate>Thu, 07 Oct 2021 01:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615d0ca88e1de-400x533.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나와 하는 교신, 명상에 성공하는 법]]></title>
             <link>https://www.vogue.co.kr/2021/10/05/%eb%82%98%ec%99%80-%ed%95%98%eb%8a%94-%ea%b5%90%ec%8b%a0-%eb%aa%85%ec%83%81%ec%97%90-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94-%eb%b2%95/</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_613063523686a-400x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킴 존스의 매우 사적인 것들]]></title>
-            <link>https://www.vogue.co.kr/2021/09/02/%ed%82%b4-%ec%a1%b4%ec%8a%a4%ec%9d%98-%eb%a7%a4%ec%9a%b0-%ec%82%ac%ec%a0%81%ec%9d%b8-%ea%b2%83%eb%93%a4/</link>
-            <guid>https://www.vogue.co.kr/2021/09/02/%ed%82%b4-%ec%a1%b4%ec%8a%a4%ec%9d%98-%eb%a7%a4%ec%9a%b0-%ec%82%ac%ec%a0%81%ec%9d%b8-%ea%b2%83%eb%93%a4/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[vogue_print]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_612edd4ca1dfa-400x534.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>보그 코리아 ─ 리빙</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 00:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 01:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MSGM 창립자가 복구한 이탈리아 집]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/257034/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/257034/</guid>
+            <pubDate>Fri, 08 Oct 2021 01:56:02 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e503bcb3ba-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이미 호크스워스가 13년간 담아낸 사진]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ec%a0%9c%ec%9d%b4%eb%af%b8-%ed%98%b8%ed%81%ac%ec%8a%a4%ec%9b%8c%ec%8a%a4%ea%b0%80-13%eb%85%84%ea%b0%84-%eb%8b%b4%ec%95%84%eb%82%b8-%ec%82%ac%ec%a7%84/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ec%a0%9c%ec%9d%b4%eb%af%b8-%ed%98%b8%ed%81%ac%ec%8a%a4%ec%9b%8c%ec%8a%a4%ea%b0%80-13%eb%85%84%ea%b0%84-%eb%8b%b4%ec%95%84%eb%82%b8-%ec%82%ac%ec%a7%84/</guid>
+            <pubDate>Fri, 08 Oct 2021 01:56:02 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e589862bd3-400x323.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카라동물영화제]]></title>
             <link>https://www.vogue.co.kr/2021/10/07/%ec%b9%b4%eb%9d%bc%eb%8f%99%eb%ac%bc%ec%98%81%ed%99%94%ec%a0%9c/</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61511be5b5f0f-400x267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실에서 고개를 들면 하늘과 눈이 마주치는 빌라]]></title>
-            <link>https://www.vogue.co.kr/2021/09/23/%ea%b1%b0%ec%8b%a4%ec%97%90%ec%84%9c-%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%93%a4%eb%a9%b4-%ed%95%98%eb%8a%98%ea%b3%bc-%eb%88%88%ec%9d%b4-%eb%a7%88%ec%a3%bc%ec%b9%98%eb%8a%94-%eb%b9%8c%eb%9d%bc/</link>
-            <guid>https://www.vogue.co.kr/2021/09/23/%ea%b1%b0%ec%8b%a4%ec%97%90%ec%84%9c-%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%93%a4%eb%a9%b4-%ed%95%98%eb%8a%98%ea%b3%bc-%eb%88%88%ec%9d%b4-%eb%a7%88%ec%a3%bc%ec%b9%98%eb%8a%94-%eb%b9%8c%eb%9d%bc/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[조소현]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_614be4a8b2b77-400x270.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로저 페더러의 눈을 통해 바라본 샴페인 미학]]></title>
-            <link>https://www.vogue.co.kr/2021/09/08/%eb%a1%9c%ec%a0%80-%ed%8e%98%eb%8d%94%eb%9f%ac%ec%9d%98-%eb%88%88%ec%9d%84-%ed%86%b5%ed%95%b4-%eb%b0%94%eb%9d%bc%eb%b3%b8-%ec%83%b4%ed%8e%98%ec%9d%b8-%eb%af%b8%ed%95%99/</link>
-            <guid>https://www.vogue.co.kr/2021/09/08/%eb%a1%9c%ec%a0%80-%ed%8e%98%eb%8d%94%eb%9f%ac%ec%9d%98-%eb%88%88%ec%9d%84-%ed%86%b5%ed%95%b4-%eb%b0%94%eb%9d%bc%eb%b3%b8-%ec%83%b4%ed%8e%98%ec%9d%b8-%eb%af%b8%ed%95%99/</guid>
-            <pubDate>Fri, 01 Oct 2021 22:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[광고팀]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_613837385ca8c-400x320.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

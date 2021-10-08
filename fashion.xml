@@ -4,9 +4,17 @@
         <title>보그 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 00:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 01:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Pilgrim]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/the-pilgrim/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/the-pilgrim/</guid>
+            <pubDate>Fri, 08 Oct 2021 01:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[손기호]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615eb741ee323-400x279.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔로워 1위! <오징어 게임>의 정호연 스타일 탐구]]></title>
             <link>https://www.vogue.co.kr/2021/10/07/%ed%8c%94%eb%a1%9c%ec%9b%8c-1%ec%9c%84-%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84%ec%9d%98-%ec%a0%95%ed%98%b8%ec%97%b0-%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%83%90%ea%b5%ac/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
             <content:encoded><![CDATA[김나랑]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615567879e06d-400x501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[럭셔리는 어떻게 문화가 되었나]]></title>
-            <link>https://www.vogue.co.kr/2021/09/30/%eb%9f%ad%ec%85%94%eb%a6%ac%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%ac%b8%ed%99%94%ea%b0%80-%eb%90%98%ec%97%88%eb%82%98/</link>
-            <guid>https://www.vogue.co.kr/2021/09/30/%eb%9f%ad%ec%85%94%eb%a6%ac%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%ac%b8%ed%99%94%ea%b0%80-%eb%90%98%ec%97%88%eb%82%98/</guid>
-            <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[vogue_print]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153f489692b9-400x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

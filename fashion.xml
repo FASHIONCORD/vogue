@@ -4,7 +4,7 @@
         <title>보그 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 07:05:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 09:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 08 Oct 2021 07:03:38 GMT</pubDate>
             <content:encoded><![CDATA[선정 박]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615fd67d0e5d6-400x401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이크와 몽클레르의 조우]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ed%95%98%ec%9d%b4%ed%81%ac%ec%99%80-%eb%aa%bd%ed%81%b4%eb%a0%88%eb%a5%b4%ec%9d%98-%ec%a1%b0%ec%9a%b0/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ed%95%98%ec%9d%b4%ed%81%ac%ec%99%80-%eb%aa%bd%ed%81%b4%eb%a0%88%eb%a5%b4%ec%9d%98-%ec%a1%b0%ec%9a%b0/</guid>
+            <pubDate>Fri, 08 Oct 2021 09:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ecf321c84d-400x225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[샤넬을 입은 5명의 여인들 그리고 제니]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
             <content:encoded><![CDATA[vogue_print]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ba3b4d7c90-400x509.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Every Day, Every Moment]]></title>
-            <link>https://www.vogue.co.kr/2021/10/01/every-day-every-moment/</link>
-            <guid>https://www.vogue.co.kr/2021/10/01/every-day-every-moment/</guid>
-            <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[광고팀]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_6156c5bf585f0-400x267.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

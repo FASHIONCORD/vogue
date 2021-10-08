@@ -4,9 +4,17 @@
         <title>보그 코리아 ─ 패션</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 03:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 04:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬을 입은 5명의 여인들 그리고 제니]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ec%9d%b4%eb%84%a4%ec%a6%88%ec%99%80-%eb%b9%84%eb%88%84%eb%93%9c%ec%9d%98-%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%86%8d-%ec%83%a4%eb%84%ac%ec%9d%84-%ec%9e%85%ec%9d%80-5%eb%aa%85%ec%9d%98-%ec%97%ac%ec%9d%b8/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ec%9d%b4%eb%84%a4%ec%a6%88%ec%99%80-%eb%b9%84%eb%88%84%eb%93%9c%ec%9d%98-%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%86%8d-%ec%83%a4%eb%84%ac%ec%9d%84-%ec%9e%85%ec%9d%80-5%eb%aa%85%ec%9d%98-%ec%97%ac%ec%9d%b8/</guid>
+            <pubDate>Fri, 08 Oct 2021 04:04:02 GMT</pubDate>
+            <content:encoded><![CDATA[광고팀]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615f226dd9d20-400x400.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Pilgrim]]></title>
             <link>https://www.vogue.co.kr/2021/10/08/the-pilgrim/</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
             <content:encoded><![CDATA[손은영]]></content:encoded>
             <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61556bb586208-400x267.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소년과 청년 사이, 크래비티]]></title>
-            <link>https://www.vogue.co.kr/2021/10/01/%ec%86%8c%eb%85%84%ea%b3%bc-%ec%b2%ad%eb%85%84-%ec%82%ac%ec%9d%b4-%ed%81%ac%eb%9e%98%eb%b9%84%ed%8b%b0/</link>
-            <guid>https://www.vogue.co.kr/2021/10/01/%ec%86%8c%eb%85%84%ea%b3%bc-%ec%b2%ad%eb%85%84-%ec%82%ac%ec%9d%b4-%ed%81%ac%eb%9e%98%eb%b9%84%ed%8b%b0/</guid>
-            <pubDate>Thu, 07 Oct 2021 08:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[김나랑]]></content:encoded>
-            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615567879e06d-400x501.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

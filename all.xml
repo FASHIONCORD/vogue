@@ -1,7 +1,587 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://FASHIONCORD.github.io/vogue/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-10-11T02:24:12.012Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 11 Oct 2021 03:05:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 모든 베이지를 품은 가을 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/11/%ec%84%b8%ec%83%81-%eb%aa%a8%eb%93%a0-%eb%b2%a0%ec%9d%b4%ec%a7%80%eb%a5%bc-%ed%92%88%ec%9d%80-%ea%b0%80%ec%9d%84/</link>
+            <guid>https://www.vogue.co.kr/2021/10/11/%ec%84%b8%ec%83%81-%eb%aa%a8%eb%93%a0-%eb%b2%a0%ec%9d%b4%ec%a7%80%eb%a5%bc-%ed%92%88%ec%9d%80-%ea%b0%80%ec%9d%84/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[손기호]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_616008077b3fe-400x250.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 인플루언서들이 고른 코리안 레이블 4 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ec%a0%84-%ec%84%b8%ea%b3%84-%ec%9d%b8%ed%94%8c%eb%a3%a8%ec%96%b8%ec%84%9c%eb%93%a4%ec%9d%b4-%ea%b3%a0%eb%a5%b8-%ec%bd%94%eb%a6%ac%ec%95%88-%eb%a0%88%ec%9d%b4%eb%b8%94-4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ec%a0%84-%ec%84%b8%ea%b3%84-%ec%9d%b8%ed%94%8c%eb%a3%a8%ec%96%b8%ec%84%9c%eb%93%a4%ec%9d%b4-%ea%b3%a0%eb%a5%b8-%ec%bd%94%eb%a6%ac%ec%95%88-%eb%a0%88%ec%9d%b4%eb%b8%94-4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[선정 박]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615fd67d0e5d6-400x401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이크와 몽클레르의 조우 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ed%95%98%ec%9d%b4%ed%81%ac%ec%99%80-%eb%aa%bd%ed%81%b4%eb%a0%88%eb%a5%b4%ec%9d%98-%ec%a1%b0%ec%9a%b0/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ed%95%98%ec%9d%b4%ed%81%ac%ec%99%80-%eb%aa%bd%ed%81%b4%eb%a0%88%eb%a5%b4%ec%9d%98-%ec%a1%b0%ec%9a%b0/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ecf321c84d-400x225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬을 입은 5명의 여인들 그리고 제니 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ec%9d%b4%eb%84%a4%ec%a6%88%ec%99%80-%eb%b9%84%eb%88%84%eb%93%9c%ec%9d%98-%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%86%8d-%ec%83%a4%eb%84%ac%ec%9d%84-%ec%9e%85%ec%9d%80-5%eb%aa%85%ec%9d%98-%ec%97%ac%ec%9d%b8/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ec%9d%b4%eb%84%a4%ec%a6%88%ec%99%80-%eb%b9%84%eb%88%84%eb%93%9c%ec%9d%98-%ec%b9%b4%eb%a9%94%eb%9d%bc-%ec%86%8d-%ec%83%a4%eb%84%ac%ec%9d%84-%ec%9e%85%ec%9d%80-5%eb%aa%85%ec%9d%98-%ec%97%ac%ec%9d%b8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[광고팀]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615f226dd9d20-400x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Pilgrim (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/the-pilgrim/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/the-pilgrim/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[손기호]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615eb741ee323-400x279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔로워 1위! <오징어 게임>의 정호연 스타일 탐구 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%ed%8c%94%eb%a1%9c%ec%9b%8c-1%ec%9c%84-%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84%ec%9d%98-%ec%a0%95%ed%98%b8%ec%97%b0-%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%83%90%ea%b5%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%ed%8c%94%eb%a1%9c%ec%9b%8c-1%ec%9c%84-%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84%ec%9d%98-%ec%a0%95%ed%98%b8%ec%97%b0-%ec%8a%a4%ed%83%80%ec%9d%bc-%ed%83%90%ea%b5%ac/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[권민지]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e67a9ae851-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스트 톱 모델, 클로이 오 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/06/%eb%84%a5%ec%8a%a4%ed%8a%b8-%ed%86%b1-%eb%aa%a8%eb%8d%b8-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/06/%eb%84%a5%ec%8a%a4%ed%8a%b8-%ed%86%b1-%eb%aa%a8%eb%8d%b8-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[손은영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615c0c7b6dc87-400x502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리칸 디자이너들이 말하는 보석과 천연자원 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/06/%ec%95%84%ed%94%84%eb%a6%ac%ec%b9%b8-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88%eb%93%a4%ec%9d%b4-%eb%a7%90%ed%95%98%eb%8a%94-%eb%b3%b4%ec%84%9d%ea%b3%bc-%ec%b2%9c%ec%97%b0%ec%9e%90/</link>
+            <guid>https://www.vogue.co.kr/2021/10/06/%ec%95%84%ed%94%84%eb%a6%ac%ec%b9%b8-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88%eb%93%a4%ec%9d%b4-%eb%a7%90%ed%95%98%eb%8a%94-%eb%b3%b4%ec%84%9d%ea%b3%bc-%ec%b2%9c%ec%97%b0%ec%9e%90/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61559b5ab5b45-400x480.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래를 준비하는 피렌체의 구찌 아카이브 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/06/%eb%af%b8%eb%9e%98%eb%a5%bc-%ec%a4%80%eb%b9%84%ed%95%98%eb%8a%94-%ed%94%bc%eb%a0%8c%ec%b2%b4%ec%9d%98-%ea%b5%ac%ec%b0%8c-%ec%95%84%ec%b9%b4%ec%9d%b4%eb%b8%8c/</link>
+            <guid>https://www.vogue.co.kr/2021/10/06/%eb%af%b8%eb%9e%98%eb%a5%bc-%ec%a4%80%eb%b9%84%ed%95%98%eb%8a%94-%ed%94%bc%eb%a0%8c%ec%b2%b4%ec%9d%98-%ea%b5%ac%ec%b0%8c-%ec%95%84%ec%b9%b4%ec%9d%b4%eb%b8%8c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61559866e30ba-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fresh Innovation (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/05/fresh-innovation/</link>
+            <guid>https://www.vogue.co.kr/2021/10/05/fresh-innovation/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[남현지]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615b9c7206b8e-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모던 패밀리 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%eb%aa%a8%eb%8d%98-%ed%8c%a8%eb%b0%80%eb%a6%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%eb%aa%a8%eb%8d%98-%ed%8c%a8%eb%b0%80%eb%a6%ac/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[보연 허]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615bf84dafa73-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 패션계가 가장 선호하는 매력, 클로이 오 (보그 코리아 ─ 패션)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%ec%a7%80%ea%b8%88-%ed%8c%a8%ec%85%98%ea%b3%84%ea%b0%80-%ea%b0%80%ec%9e%a5-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-%eb%a7%a4%eb%a0%a5-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%ec%a7%80%ea%b8%88-%ed%8c%a8%ec%85%98%ea%b3%84%ea%b0%80-%ea%b0%80%ec%9e%a5-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-%eb%a7%a4%eb%a0%a5-%ed%81%b4%eb%a1%9c%ec%9d%b4-%ec%98%a4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[손기호]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615594f947d51-400x502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[풋 케어 골든 타임 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ed%92%8b-%ec%bc%80%ec%96%b4-%ea%b3%a8%eb%93%a0-%ed%83%80%ec%9e%84/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ed%92%8b-%ec%bc%80%ec%96%b4-%ea%b3%a8%eb%93%a0-%ed%83%80%ec%9e%84/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[우주연]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615f3d4f74754-400x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[루이 비통과 향이라는 항해 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5%ea%b3%bc-%ed%96%a5%ec%9d%b4%eb%9d%bc%eb%8a%94-%ed%95%ad%ed%95%b4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%eb%a3%a8%ec%9d%b4-%eb%b9%84%ed%86%b5%ea%b3%bc-%ed%96%a5%ec%9d%b4%eb%9d%bc%eb%8a%94-%ed%95%ad%ed%95%b4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615d02cdde528-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 새로운 단발병 유발자 4 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</link>
+            <guid>https://www.vogue.co.kr/2021/10/05/2021-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%eb%b0%9c%eb%b3%91-%ec%9c%a0%eb%b0%9c%ec%9e%90-4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[권민지]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615c2e0d036d3-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anxiety Brows (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/30/anxiety-brows/</link>
+            <guid>https://www.vogue.co.kr/2021/09/30/anxiety-brows/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153d5d6a37b5-400x247.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피부에 지각변동을 일으킬 듀얼 세럼 8 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/30/%ed%94%bc%eb%b6%80%ec%97%90-%ec%a7%80%ea%b0%81%eb%b3%80%eb%8f%99%ec%9d%84-%ec%9d%bc%ec%9c%bc%ed%82%ac-%eb%93%80%ec%96%bc-%ec%84%b8%eb%9f%bc-8/</link>
+            <guid>https://www.vogue.co.kr/2021/09/30/%ed%94%bc%eb%b6%80%ec%97%90-%ec%a7%80%ea%b0%81%eb%b3%80%eb%8f%99%ec%9d%84-%ec%9d%bc%ec%9c%bc%ed%82%ac-%eb%93%80%ec%96%bc-%ec%84%b8%eb%9f%bc-8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6153db40c65a4-400x532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 크리에이터는 다들 어디로 간 걸까? (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/28/%eb%b7%b0%ed%8b%b0-%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0%eb%8a%94-%eb%8b%a4%eb%93%a4-%ec%96%b4%eb%94%94%eb%a1%9c-%ea%b0%84-%ea%b1%b8%ea%b9%8c/</link>
+            <guid>https://www.vogue.co.kr/2021/09/28/%eb%b7%b0%ed%8b%b0-%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0%eb%8a%94-%eb%8b%a4%eb%93%a4-%ec%96%b4%eb%94%94%eb%a1%9c-%ea%b0%84-%ea%b1%b8%ea%b9%8c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151647b8b4b6-400x492.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상의 중심에서 생리를 외치다 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/28/%ec%84%b8%ec%83%81%ec%9d%98-%ec%a4%91%ec%8b%ac%ec%97%90%ec%84%9c-%ec%83%9d%eb%a6%ac%eb%a5%bc-%ec%99%b8%ec%b9%98%eb%8b%a4/</link>
+            <guid>https://www.vogue.co.kr/2021/09/28/%ec%84%b8%ec%83%81%ec%9d%98-%ec%a4%91%ec%8b%ac%ec%97%90%ec%84%9c-%ec%83%9d%eb%a6%ac%eb%a5%bc-%ec%99%b8%ec%b9%98%eb%8b%a4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151611326be4-400x495.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[논픽션의 SOAPS & SENSIBILITY (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/27/%eb%85%bc%ed%94%bd%ec%85%98%ec%9d%98-soaps-sensibility/</link>
+            <guid>https://www.vogue.co.kr/2021/09/27/%eb%85%bc%ed%94%bd%ec%85%98%ec%9d%98-soaps-sensibility/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61512fc82d5ff-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Y2K 룩의 정석, 캔디 아이 메이크업 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/24/y2k%eb%a3%a9%ec%9d%98-%ec%a0%95%ec%84%9d-%ec%bb%ac%eb%9f%ac-%ec%95%84%ec%9d%b4-%eb%a9%94%ec%9d%b4%ed%81%ac%ec%97%85/</link>
+            <guid>https://www.vogue.co.kr/2021/09/24/y2k%eb%a3%a9%ec%9d%98-%ec%a0%95%ec%84%9d-%ec%bb%ac%eb%9f%ac-%ec%95%84%ec%9d%b4-%eb%a9%94%ec%9d%b4%ed%81%ac%ec%97%85/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[우주연]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6151723031836-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원샷 케어, 입생로랑 뷰티 퓨어샷 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/24/%ec%9b%90%ec%83%b7-%ec%bc%80%ec%96%b4-%ec%9e%85%ec%83%9d%eb%a1%9c%eb%9e%91-%eb%b7%b0%ed%8b%b0-%ed%93%a8%ec%96%b4%ec%83%b7/</link>
+            <guid>https://www.vogue.co.kr/2021/09/24/%ec%9b%90%ec%83%b7-%ec%bc%80%ec%96%b4-%ec%9e%85%ec%83%9d%eb%a1%9c%eb%9e%91-%eb%b7%b0%ed%8b%b0-%ed%93%a8%ec%96%b4%ec%83%b7/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_614d629825436-400x497.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최고의 마스카라를 찾아라 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/24/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a7%88%ec%8a%a4%ec%b9%b4%eb%9d%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/09/24/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a7%88%ec%8a%a4%ec%b9%b4%eb%9d%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_614d4d9233c2c-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단 하나의 꾸뛰르 액세서리 (보그 코리아 ─ 뷰티)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/24/%eb%8b%a8-%ed%95%98%eb%82%98%ec%9d%98-%ea%be%b8%eb%9b%b0%eb%a5%b4-%ec%95%a1%ec%84%b8%ec%84%9c%eb%a6%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/09/24/%eb%8b%a8-%ed%95%98%eb%82%98%ec%9d%98-%ea%be%b8%eb%9b%b0%eb%a5%b4-%ec%95%a1%ec%84%b8%ec%84%9c%eb%a6%ac/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[광고팀]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6142fe3aaa413-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파리 한가운데 자리한 피에르 아르디의 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/11/%ed%8c%8c%eb%a6%ac-%ed%95%9c%ea%b0%80%ec%9a%b4%eb%8d%b0-%ec%9e%90%eb%a6%ac%ed%95%9c-%ed%94%bc%ec%97%90%eb%a5%b4-%ec%95%84%eb%a5%b4%eb%94%94%ec%9d%98-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/11/%ed%8c%8c%eb%a6%ac-%ed%95%9c%ea%b0%80%ec%9a%b4%eb%8d%b0-%ec%9e%90%eb%a6%ac%ed%95%9c-%ed%94%bc%ec%97%90%eb%a5%b4-%ec%95%84%eb%a5%b4%eb%94%94%ec%9d%98-%ec%a7%91/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_6160144d4e7f3-400x505.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MSGM 창립자가 복구한 이탈리아 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/257034/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/257034/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e503bcb3ba-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이미 호크스워스가 13년간 담아낸 사진 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/08/%ec%a0%9c%ec%9d%b4%eb%af%b8-%ed%98%b8%ed%81%ac%ec%8a%a4%ec%9b%8c%ec%8a%a4%ea%b0%80-13%eb%85%84%ea%b0%84-%eb%8b%b4%ec%95%84%eb%82%b8-%ec%82%ac%ec%a7%84/</link>
+            <guid>https://www.vogue.co.kr/2021/10/08/%ec%a0%9c%ec%9d%b4%eb%af%b8-%ed%98%b8%ed%81%ac%ec%8a%a4%ec%9b%8c%ec%8a%a4%ea%b0%80-13%eb%85%84%ea%b0%84-%eb%8b%b4%ec%95%84%eb%82%b8-%ec%82%ac%ec%a7%84/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615e589862bd3-400x323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카라동물영화제 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/%ec%b9%b4%eb%9d%bc%eb%8f%99%eb%ac%bc%ec%98%81%ed%99%94%ec%a0%9c/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/%ec%b9%b4%eb%9d%bc%eb%8f%99%eb%ac%bc%ec%98%81%ed%99%94%ec%a0%9c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ebc0512d5e-400x267.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[19세기 라켓볼 코트였던 트로이 시반의 호주 멜버른 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/07/19%ec%84%b8%ea%b8%b0-%eb%9d%bc%ec%bc%93%eb%b3%bc-%ec%bd%94%ed%8a%b8%ec%98%80%eb%8d%98-%ed%8a%b8%eb%a1%9c%ec%9d%b4-%ec%8b%9c%eb%b0%98%ec%9d%98-%ed%98%b8%ec%a3%bc-%eb%a9%9c%eb%b2%84%eb%a5%b8-%ec%a7%91/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615d0ca88e1de-400x533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나와 하는 교신, 명상에 성공하는 법 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/05/%eb%82%98%ec%99%80-%ed%95%98%eb%8a%94-%ea%b5%90%ec%8b%a0-%eb%aa%85%ec%83%81%ec%97%90-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94-%eb%b2%95/</link>
+            <guid>https://www.vogue.co.kr/2021/10/05/%eb%82%98%ec%99%80-%ed%95%98%eb%8a%94-%ea%b5%90%ec%8b%a0-%eb%aa%85%ec%83%81%ec%97%90-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94-%eb%b2%95/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615b9a6331f24-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디자이너 시리아노의 평화롭고 스타일리시한 해안 지역 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/05/%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-%ec%8b%9c%eb%a6%ac%ec%95%84%eb%85%b8%ec%9d%98-%ed%8f%89%ed%99%94%eb%a1%ad%ea%b3%a0-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a6%ac%ec%8b%9c%ed%95%9c-%ed%95%b4%ec%95%88/</link>
+            <guid>https://www.vogue.co.kr/2021/10/05/%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-%ec%8b%9c%eb%a6%ac%ec%95%84%eb%85%b8%ec%9d%98-%ed%8f%89%ed%99%94%eb%a1%ad%ea%b3%a0-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a6%ac%ec%8b%9c%ed%95%9c-%ed%95%b4%ec%95%88/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615b9f37d3ad2-400x549.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올 셀러브리티 매니저가 사는 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</link>
+            <guid>https://www.vogue.co.kr/2021/10/04/%eb%94%94%ec%98%ac-%ec%85%80%eb%9f%ac%eb%b8%8c%eb%a6%ac%ed%8b%b0-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80-%ec%82%ac%eb%8a%94-%ec%a7%91/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/10/style_615ba3b4d7c90-400x509.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족을 위한 에바 첸의 전원주택 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/10/01/%ea%b0%80%ec%a1%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%90%eb%b0%94-%ec%b2%b8%ec%9d%98-%ec%a0%84%ec%9b%90%ec%a3%bc%ed%83%9d/</link>
+            <guid>https://www.vogue.co.kr/2021/10/01/%ea%b0%80%ec%a1%b1%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%97%90%eb%b0%94-%ec%b2%b8%ec%9d%98-%ec%a0%84%ec%9b%90%ec%a3%bc%ed%83%9d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61556e5eb8225-400x534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 피플 야스민 스웰의 삶을 변화시킨 이스트런던 집 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/29/%ed%8c%a8%ec%85%98-%ed%94%bc%ed%94%8c-%ec%95%bc%ec%8a%a4%eb%af%bc-%ec%8a%a4%ec%9b%b0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%b3%80%ed%99%94%ec%8b%9c%ed%82%a8-%ec%9d%b4%ec%8a%a4%ed%8a%b8%eb%9f%b0%eb%8d%98/</link>
+            <guid>https://www.vogue.co.kr/2021/09/29/%ed%8c%a8%ec%85%98-%ed%94%bc%ed%94%8c-%ec%95%bc%ec%8a%a4%eb%af%bc-%ec%8a%a4%ec%9b%b0%ec%9d%98-%ec%82%b6%ec%9d%84-%eb%b3%80%ed%99%94%ec%8b%9c%ed%82%a8-%ec%9d%b4%ec%8a%a4%ed%8a%b8%eb%9f%b0%eb%8d%98/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6152b4a0a07de-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빨간 사과의 정체는? (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/28/%eb%b9%a8%ea%b0%84-%ec%82%ac%ea%b3%bc%ec%9d%98-%ec%a0%95%ec%b2%b4%eb%8a%94/</link>
+            <guid>https://www.vogue.co.kr/2021/09/28/%eb%b9%a8%ea%b0%84-%ec%82%ac%ea%b3%bc%ec%9d%98-%ec%a0%95%ec%b2%b4%eb%8a%94/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615277dfb4954-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프가니스탄을 향한 기도와 기대 (보그 코리아 ─ 리빙)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/28/%ec%95%84%ed%94%84%ea%b0%80%eb%8b%88%ec%8a%a4%ed%83%84%ec%9d%84-%ed%96%a5%ed%95%9c-%ea%b8%b0%eb%8f%84%ec%99%80-%ea%b8%b0%eb%8c%80/</link>
+            <guid>https://www.vogue.co.kr/2021/09/28/%ec%95%84%ed%94%84%ea%b0%80%eb%8b%88%ec%8a%a4%ed%83%84%ec%9d%84-%ed%96%a5%ed%95%9c-%ea%b8%b0%eb%8f%84%ec%99%80-%ea%b8%b0%eb%8c%80/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_615173e1695db-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레데릭 말의 신작 스포일러 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/07/%ed%94%84%eb%a0%88%eb%8d%b0%eb%a6%ad-%eb%a7%90%ec%9d%98-%ec%8b%a0%ec%9e%91-%ec%8a%a4%ed%8f%ac%ec%9d%bc%eb%9f%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/09/07/%ed%94%84%eb%a0%88%eb%8d%b0%eb%a6%ad-%eb%a7%90%ec%9d%98-%ec%8b%a0%ec%9e%91-%ec%8a%a4%ed%8f%ac%ec%9d%bc%eb%9f%ac/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[이주현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_6135ce5f978d1-400x403.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데미안 허스트의 시적이면서 강렬한 작품 ‘체리 블로섬’ (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/08/26/%eb%8d%b0%eb%af%b8%ec%95%88-%ed%97%88%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%8b%9c%ec%a0%81%ec%9d%b4%eb%a9%b4%ec%84%9c-%ea%b0%95%eb%a0%ac%ed%95%9c-%ec%9e%91%ed%92%88-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c/</link>
+            <guid>https://www.vogue.co.kr/2021/08/26/%eb%8d%b0%eb%af%b8%ec%95%88-%ed%97%88%ec%8a%a4%ed%8a%b8%ec%9d%98-%ec%8b%9c%ec%a0%81%ec%9d%b4%eb%a9%b4%ec%84%9c-%ea%b0%95%eb%a0%ac%ed%95%9c-%ec%9e%91%ed%92%88-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/08/style_61267509bc2b3-400x300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에 현대미술재단의 <체리 블로섬> 전시 후일담 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/08/26/%ea%b9%8c%eb%a5%b4%eb%9d%a0%ec%97%90-%ed%98%84%eb%8c%80%eb%af%b8%ec%88%a0%ec%9e%ac%eb%8b%a8%ec%9d%98-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c%ec%84%ac-%ec%a0%84%ec%8b%9c-%ed%9b%84%ec%9d%bc%eb%8b%b4/</link>
+            <guid>https://www.vogue.co.kr/2021/08/26/%ea%b9%8c%eb%a5%b4%eb%9d%a0%ec%97%90-%ed%98%84%eb%8c%80%eb%af%b8%ec%88%a0%ec%9e%ac%eb%8b%a8%ec%9d%98-%ec%b2%b4%eb%a6%ac-%eb%b8%94%eb%a1%9c%ec%84%ac-%ec%a0%84%ec%8b%9c-%ed%9b%84%ec%9d%bc%eb%8b%b4/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/08/style_612674dd64726-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루치아 피카가 생각하는 ‘절대적 아름다움’ (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/08/23/%eb%a3%a8%ec%b9%98%ec%95%84-%ed%94%bc%ec%b9%b4%ea%b0%80-%ec%83%9d%ea%b0%81%ed%95%98%eb%8a%94-%ec%a0%88%eb%8c%80%ec%a0%81-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%80/</link>
+            <guid>https://www.vogue.co.kr/2021/08/23/%eb%a3%a8%ec%b9%98%ec%95%84-%ed%94%bc%ec%b9%b4%ea%b0%80-%ec%83%9d%ea%b0%81%ed%95%98%eb%8a%94-%ec%a0%88%eb%8c%80%ec%a0%81-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%80/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/08/style_61234eba654ad-400x546.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국계 소설가 4인 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/26/%ed%95%9c%ea%b5%ad%ea%b3%84-%ec%86%8c%ec%84%a4%ea%b0%80-4%ec%9d%b8/</link>
+            <guid>https://www.vogue.co.kr/2021/07/26/%ed%95%9c%ea%b5%ad%ea%b3%84-%ec%86%8c%ec%84%a4%ea%b0%80-4%ec%9d%b8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60fa6986c329f-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<고양이를 부탁해>의 20주년 기획전 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/22/%ec%9d%98-20%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ec%a0%84/</link>
+            <guid>https://www.vogue.co.kr/2021/07/22/%ec%9d%98-20%ec%a3%bc%eb%85%84-%ea%b8%b0%ed%9a%8d%ec%a0%84/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60f79ca4ef1aa-400x251.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울국제여성영화제 장편 경쟁 한국 영화 4편 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/22/%ec%84%9c%ec%9a%b8%ea%b5%ad%ec%a0%9c%ec%97%ac%ec%84%b1%ec%98%81%ed%99%94%ec%a0%9c-%ec%9e%a5%ed%8e%b8-%ea%b2%bd%ec%9f%81-%ed%95%9c%ea%b5%ad-%ec%98%81%ed%99%94-4%ed%8e%b8/</link>
+            <guid>https://www.vogue.co.kr/2021/07/22/%ec%84%9c%ec%9a%b8%ea%b5%ad%ec%a0%9c%ec%97%ac%ec%84%b1%ec%98%81%ed%99%94%ec%a0%9c-%ec%9e%a5%ed%8e%b8-%ea%b2%bd%ec%9f%81-%ed%95%9c%ea%b5%ad-%ec%98%81%ed%99%94-4%ed%8e%b8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[김나랑]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60f79ce48aaea-400x250.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르마니의 시간, 아르마니의 약속 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/09/%ec%95%84%eb%a5%b4%eb%a7%88%eb%8b%88%ec%9d%98-%ec%8b%9c%ea%b0%84-%ec%95%84%eb%a5%b4%eb%a7%88%eb%8b%88%ec%9d%98-%ec%95%bd%ec%86%8d/</link>
+            <guid>https://www.vogue.co.kr/2021/07/09/%ec%95%84%eb%a5%b4%eb%a7%88%eb%8b%88%ec%9d%98-%ec%8b%9c%ea%b0%84-%ec%95%84%eb%a5%b4%eb%a7%88%eb%8b%88%ec%9d%98-%ec%95%bd%ec%86%8d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[assistant]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60e6c9f3c5742-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼모델 나오미 캠벨의 그림 같은 빌라 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/06/30/%ec%8a%88%ed%8d%bc%eb%aa%a8%eb%8d%b8-%eb%82%98%ec%98%a4%eb%af%b8-%ec%ba%a0%eb%b2%a8%ec%9d%98-%ea%b7%b8%eb%a6%bc-%ea%b0%99%ec%9d%80-%eb%b9%8c%eb%9d%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/06/30/%ec%8a%88%ed%8d%bc%eb%aa%a8%eb%8d%b8-%eb%82%98%ec%98%a4%eb%af%b8-%ec%ba%a0%eb%b2%a8%ec%9d%98-%ea%b7%b8%eb%a6%bc-%ea%b0%99%ec%9d%80-%eb%b9%8c%eb%9d%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/06/style_60daed646ebff-400x574.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가구와 오브제를 창조하는 젊은 디자이너 6인 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/06/24/%ea%b0%80%ea%b5%ac%ec%99%80-%ec%98%a4%eb%b8%8c%ec%a0%9c%eb%a5%bc-%ec%b0%bd%ec%a1%b0%ed%95%98%eb%8a%94-%ec%a0%8a%ec%9d%80-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-6%ec%9d%b8/</link>
+            <guid>https://www.vogue.co.kr/2021/06/24/%ea%b0%80%ea%b5%ac%ec%99%80-%ec%98%a4%eb%b8%8c%ec%a0%9c%eb%a5%bc-%ec%b0%bd%ec%a1%b0%ed%95%98%eb%8a%94-%ec%a0%8a%ec%9d%80-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-6%ec%9d%b8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/06/style_60d295f018c49-400x196.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지지와 벨라의 엄마, 욜란다가 말하는 ‘라임병’ (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/06/07/%ec%a7%80%ec%a7%80%ec%99%80-%eb%b2%a8%eb%9d%bc%ec%9d%98-%ec%97%84%eb%a7%88-%ec%9a%9c%eb%9e%80%eb%8b%a4%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%eb%9d%bc%ec%9e%84%eb%b3%91/</link>
+            <guid>https://www.vogue.co.kr/2021/06/07/%ec%a7%80%ec%a7%80%ec%99%80-%eb%b2%a8%eb%9d%bc%ec%9d%98-%ec%97%84%eb%a7%88-%ec%9a%9c%eb%9e%80%eb%8b%a4%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%eb%9d%bc%ec%9e%84%eb%b3%91/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[이주현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/06/style_60bd723e6944a-400x558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성별 고정관념을 깨는 파격 캐스팅 (보그 코리아 ─ 피플)]]></title>
+            <link>https://www.vogue.co.kr/2021/05/12/%ec%84%b1%eb%b3%84-%ea%b3%a0%ec%a0%95%ea%b4%80%eb%85%90%ec%9d%84-%ea%b9%a8%eb%8a%94-%ed%8c%8c%ea%b2%a9-%ec%ba%90%ec%8a%a4%ed%8c%85/</link>
+            <guid>https://www.vogue.co.kr/2021/05/12/%ec%84%b1%eb%b3%84-%ea%b3%a0%ec%a0%95%ea%b4%80%eb%85%90%ec%9d%84-%ea%b9%a8%eb%8a%94-%ed%8c%8c%ea%b2%a9-%ec%ba%90%ec%8a%a4%ed%8c%85/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:04:47 GMT</pubDate>
+            <content:encoded><![CDATA[조소현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/05/style_609a13b1b3e40-400x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발렌시아가의 50th 꾸뛰르 컬렉션 라이브 스트리밍 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/06/%eb%b0%9c%eb%a0%8c%ec%8b%9c%ec%95%84%ea%b0%80%ec%9d%98-50th-%ec%98%a4%eb%9c%a8%ea%be%b8%eb%9b%b0%eb%a5%b4-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</link>
+            <guid>https://www.vogue.co.kr/2021/07/06/%eb%b0%9c%eb%a0%8c%ec%8b%9c%ec%95%84%ea%b0%80%ec%9d%98-50th-%ec%98%a4%eb%9c%a8%ea%be%b8%eb%9b%b0%eb%a5%b4-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60e4080331a19-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장원영과 함께한 미우미우 세일러 클럽 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2021/07/01/vogue-x-miumiu-sailor-club/</link>
+            <guid>https://www.vogue.co.kr/2021/07/01/vogue-x-miumiu-sailor-club/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/07/style_60dd4ce989f36-400x500.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[에디터 제니가 선택한 주얼리는? (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2021/03/25/%ec%97%90%eb%94%94%ed%84%b0-%ec%a0%9c%eb%8b%88%ec%9d%98-%ed%95%98%eb%a3%a8/</link>
+            <guid>https://www.vogue.co.kr/2021/03/25/%ec%97%90%eb%94%94%ed%84%b0-%ec%a0%9c%eb%8b%88%ec%9d%98-%ed%95%98%eb%a3%a8/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[허세련]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/03/style_605c32dd049a6-400x501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올 FALL-WINTER 2021-2022 레디 투 웨어 컬렉션 라이브 스트리밍 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2021/03/08/%eb%94%94%ec%98%ac-fall-winter-2021-2022-%eb%a0%88%eb%94%94-%ed%88%ac-%ec%9b%a8%ec%96%b4-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</link>
+            <guid>https://www.vogue.co.kr/2021/03/08/%eb%94%94%ec%98%ac-fall-winter-2021-2022-%eb%a0%88%eb%94%94-%ed%88%ac-%ec%9b%a8%ec%96%b4-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[임화영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/03/style_60459d5847282-400x225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프라다 2021 F/W 시즌 여성복 컬렉션 라이브 스트리밍 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2021/02/25/%ed%94%84%eb%9d%bc%eb%8b%a4-2021-f-w-%ec%8b%9c%ec%a6%8c-%ec%97%ac%ec%84%b1%eb%b3%b5-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</link>
+            <guid>https://www.vogue.co.kr/2021/02/25/%ed%94%84%eb%9d%bc%eb%8b%a4-2021-f-w-%ec%8b%9c%ec%a6%8c-%ec%97%ac%ec%84%b1%eb%b3%b5-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/02/style_6037135f53eeb-400x225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발렌시아가 SUMMER 21 (PRE-COLLECTION) (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/10/05/%eb%b0%9c%eb%a0%8c%ec%8b%9c%ec%95%84%ea%b0%80-summer-21-pre-collection/</link>
+            <guid>https://www.vogue.co.kr/2020/10/05/%eb%b0%9c%eb%a0%8c%ec%8b%9c%ec%95%84%ea%b0%80-summer-21-pre-collection/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[vogue_print]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/10/style_5f7aeaad91437-400x224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프라다 2021 S/S 시즌 여성복 컬렉션 라이브 스트리밍 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/09/24/%ed%94%84%eb%9d%bc%eb%8b%a4-2021-ss-%ec%8b%9c%ec%a6%8c-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</link>
+            <guid>https://www.vogue.co.kr/2020/09/24/%ed%94%84%eb%9d%bc%eb%8b%a4-2021-ss-%ec%8b%9c%ec%a6%8c-%ec%bb%ac%eb%a0%89%ec%85%98-%eb%9d%bc%ec%9d%b4%eb%b8%8c-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/09/style_5f6c4e594bd10-400x225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 패션 위크에 소개된 한국 디자이너 브랜드 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/09/16/%eb%89%b4%ec%9a%95-%ed%8c%a8%ec%85%98%ec%9c%84%ed%81%ac%ec%97%90-%ec%86%8c%ea%b0%9c%eb%90%9c-%ed%95%9c%ea%b5%ad-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-%eb%b8%8c%eb%9e%9c%eb%93%9c/</link>
+            <guid>https://www.vogue.co.kr/2020/09/16/%eb%89%b4%ec%9a%95-%ed%8c%a8%ec%85%98%ec%9c%84%ed%81%ac%ec%97%90-%ec%86%8c%ea%b0%9c%eb%90%9c-%ed%95%9c%ea%b5%ad-%eb%94%94%ec%9e%90%ec%9d%b4%eb%84%88-%eb%b8%8c%eb%9e%9c%eb%93%9c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/09/style_5f61ce40f2336-400x225.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 봄/여름 남성 컬렉션 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/09/09/2021-%eb%b4%84-%ec%97%ac%eb%a6%84-%eb%82%a8%ec%84%b1-%ec%bb%ac%eb%a0%89%ec%85%98/</link>
+            <guid>https://www.vogue.co.kr/2020/09/09/2021-%eb%b4%84-%ec%97%ac%eb%a6%84-%eb%82%a8%ec%84%b1-%ec%bb%ac%eb%a0%89%ec%85%98/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[광고팀]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/09/style_5f58a14e8c0b2-400x170.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보아 ‘Little Bird’ 뮤직 필름 공개 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/09/01/%eb%b3%b4%ec%95%84-little-bird-%eb%ae%a4%ec%a7%81%ed%95%84%eb%a6%84-%ea%b3%b5%ea%b0%9c/</link>
+            <guid>https://www.vogue.co.kr/2020/09/01/%eb%b3%b4%ec%95%84-little-bird-%eb%ae%a4%ec%a7%81%ed%95%84%eb%a6%84-%ea%b3%b5%ea%b0%9c/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[허세련]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/09/style_5f4df70c1b7e5-400x236.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생 로랑 2020 가을 로제 캠페인 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/07/24/%ed%94%84%eb%9d%bc%eb%8b%a4-%eb%b3%b4%ea%b7%b8-tv-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%a4%91/</link>
+            <guid>https://www.vogue.co.kr/2020/07/24/%ed%94%84%eb%9d%bc%eb%8b%a4-%eb%b3%b4%ea%b7%b8-tv-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%a4%91/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[광고팀]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/08/style_5f1aabc2b059a-400x225.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[민현과 함께한 어느 여름날 (보그 코리아 ─ 비디오)]]></title>
+            <link>https://www.vogue.co.kr/2020/07/14/%e1%84%82%e1%85%b2%e1%84%8b%e1%85%b5%e1%84%89%e1%85%b3%e1%84%90%e1%85%b3-%e1%84%86%e1%85%b5%e1%86%ab%e1%84%92%e1%85%a7%e1%86%ab%e1%84%8b%e1%85%b4-%ec%96%b4%eb%8a%90-%ec%97%ac%eb%a6%84-%eb%82%a0/</link>
+            <guid>https://www.vogue.co.kr/2020/07/14/%e1%84%82%e1%85%b2%e1%84%8b%e1%85%b5%e1%84%89%e1%85%b3%e1%84%90%e1%85%b3-%e1%84%86%e1%85%b5%e1%86%ab%e1%84%92%e1%85%a7%e1%86%ab%e1%84%8b%e1%85%b4-%ec%96%b4%eb%8a%90-%ec%97%ac%eb%a6%84-%eb%82%a0/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2020/07/style_5f0d581186bb7-400x501.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[논픽션의 SOAPS & SENSIBILITY (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/27/%eb%85%bc%ed%94%bd%ec%85%98%ec%9d%98-soaps-sensibility/</link>
+            <guid>https://www.vogue.co.kr/2021/09/27/%eb%85%bc%ed%94%bd%ec%85%98%ec%9d%98-soaps-sensibility/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[가혜 송]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/09/style_61512fc82d5ff-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뷰티 월드의 혁명가, 메이크업 아티스트 샬롯 틸버리 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/09/01/%eb%b7%b0%ed%8b%b0-%ec%9b%94%eb%93%9c%ec%9d%98-%ed%98%81%eb%aa%85%ea%b0%80-%eb%a9%94%ec%9d%b4%ed%81%ac%ec%97%85-%ec%95%84%ed%8b%b0%ec%8a%a4%ed%8a%b8-%ec%83%ac%eb%a1%af-%ed%8b%b8%eb%b2%84%eb%a6%ac/</link>
+            <guid>https://www.vogue.co.kr/2021/09/01/%eb%b7%b0%ed%8b%b0-%ec%9b%94%eb%93%9c%ec%9d%98-%ed%98%81%eb%aa%85%ea%b0%80-%eb%a9%94%ec%9d%b4%ed%81%ac%ec%97%85-%ec%95%84%ed%8b%b0%ec%8a%a4%ed%8a%b8-%ec%83%ac%eb%a1%af-%ed%8b%b8%eb%b2%84%eb%a6%ac/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[이주현]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/08/style_612da7b47286e-400x472.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모델 아이린이 선택한 여름 원피스 Best (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/06/14/%eb%aa%a8%eb%8d%b8-%ec%95%84%ec%9d%b4%eb%a6%b0%ec%9d%b4-%ec%84%a0%ed%83%9d%ed%95%9c-%ec%97%ac%eb%a6%84-%ec%9b%90%ed%94%bc%ec%8a%a4-best/</link>
+            <guid>https://www.vogue.co.kr/2021/06/14/%eb%aa%a8%eb%8d%b8-%ec%95%84%ec%9d%b4%eb%a6%b0%ec%9d%b4-%ec%84%a0%ed%83%9d%ed%95%9c-%ec%97%ac%eb%a6%84-%ec%9b%90%ed%94%bc%ec%8a%a4-best/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/06/style_60c717307e76a-400x537.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여름과 찰떡궁합! 세라믹 바구니 4 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/05/25/%ea%b3%bc%ec%9d%bc%ec%9d%b4-%ec%88%a8%ec%9d%84-%ec%89%ac%eb%8a%94-%ec%84%b8%eb%9d%bc%eb%af%b9-%eb%b0%94%ea%b5%ac%eb%8b%88/</link>
+            <guid>https://www.vogue.co.kr/2021/05/25/%ea%b3%bc%ec%9d%bc%ec%9d%b4-%ec%88%a8%ec%9d%84-%ec%89%ac%eb%8a%94-%ec%84%b8%eb%9d%bc%eb%af%b9-%eb%b0%94%ea%b5%ac%eb%8b%88/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[공인아]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/05/style_60acb72feb90d-400x533.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발볼 부자를 위한 스트랩 샌들 Best 10 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/05/24/%eb%b0%9c%eb%b3%bc-%eb%b6%80%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%8a%a4%ed%8a%b8%eb%9e%a9-%ec%83%8c%eb%93%a4-best-10/</link>
+            <guid>https://www.vogue.co.kr/2021/05/24/%eb%b0%9c%eb%b3%bc-%eb%b6%80%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%8a%a4%ed%8a%b8%eb%9e%a9-%ec%83%8c%eb%93%a4-best-10/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[황혜영]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/05/style_60ab5e81df9d6-400x455.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사용할수록 매력적인 테크 제품 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/05/20/%ec%82%ac%ec%9a%a9%ed%95%a0%ec%88%98%eb%a1%9d-%eb%a7%a4%eb%a0%a5%ec%a0%81%ec%9d%b8-%ed%85%8c%ed%81%ac-%ec%a0%9c%ed%92%88/</link>
+            <guid>https://www.vogue.co.kr/2021/05/20/%ec%82%ac%ec%9a%a9%ed%95%a0%ec%88%98%eb%a1%9d-%eb%a7%a4%eb%a0%a5%ec%a0%81%ec%9d%b8-%ed%85%8c%ed%81%ac-%ec%a0%9c%ed%92%88/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[공인아]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/05/style_60a61d49b97ed-400x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향있는 플랜터 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/05/07/%ec%b7%a8%ed%96%a5-%ec%9e%88%eb%8a%94-%ed%94%8c%eb%9e%9c%ed%84%b0/</link>
+            <guid>https://www.vogue.co.kr/2021/05/07/%ec%b7%a8%ed%96%a5-%ec%9e%88%eb%8a%94-%ed%94%8c%eb%9e%9c%ed%84%b0/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[공인아]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/05/style_6095009019a6d-400x267.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감사의 마음을 담은, 부모님을 위한 선물 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/04/30/%ea%b0%90%ec%82%ac%ec%9d%98-%eb%a7%88%ec%9d%8c%ec%9d%84-%eb%8b%b4%ec%9d%80-%eb%b6%80%eb%aa%a8%eb%8b%98%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/04/30/%ea%b0%90%ec%82%ac%ec%9d%98-%eb%a7%88%ec%9d%8c%ec%9d%84-%eb%8b%b4%ec%9d%80-%eb%b6%80%eb%aa%a8%eb%8b%98%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/04/style_6087989ceb5f7-400x536.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성년을 위한 선물 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/04/30/%ec%84%b1%eb%85%84%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/04/30/%ec%84%b1%eb%85%84%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/04/style_6090c180caac6-400x631.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작고 소중한 아이들을 위한 선물 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/04/30/%ec%9e%91%ea%b3%a0-%ec%86%8c%ec%a4%91%ed%95%9c-%ec%95%84%ec%9d%b4%eb%93%a4%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/04/30/%ec%9e%91%ea%b3%a0-%ec%86%8c%ec%a4%91%ed%95%9c-%ec%95%84%ec%9d%b4%eb%93%a4%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/04/style_60879cd973e2b-400x283.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘카카오톡 선물하기’에서 찾은 5월을 위한 선물 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/04/30/%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%86%a1-%ec%84%a0%eb%ac%bc%ed%95%98%ea%b8%b0%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-5%ec%9b%94%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/04/30/%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%86%a1-%ec%84%a0%eb%ac%bc%ed%95%98%ea%b8%b0%ec%97%90%ec%84%9c-%ec%b0%be%ec%9d%80-5%ec%9b%94%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/04/style_60894624f3766-400x400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연인을 위한 선물 (보그 코리아 ─ 쇼핑)]]></title>
+            <link>https://www.vogue.co.kr/2021/04/30/%ec%97%b0%ec%9d%b8%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</link>
+            <guid>https://www.vogue.co.kr/2021/04/30/%ec%97%b0%ec%9d%b8%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%84%a0%eb%ac%bc/</guid>
+            <pubDate>Mon, 11 Oct 2021 03:05:23 GMT</pubDate>
+            <content:encoded><![CDATA[voguedigital]]></content:encoded>
+            <enclosure url="https://img.vogue.co.kr/vogue/2021/04/style_60823f23b2b7a-400x500.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

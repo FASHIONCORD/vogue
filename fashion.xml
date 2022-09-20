@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vogue.co.kr/category/people/</id>
-    <title>보그 코리아 ─ 피플</title>
-    <updated>2022-09-20T16:22:34.625Z</updated>
+    <id>https://www.vogue.co.kr/category/fashion/</id>
+    <title>보그 코리아 ─ 패션</title>
+    <updated>2022-09-20T17:25:40.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vogue.co.kr/category/people/favicon.ico</icon>
+    <icon>https://www.vogue.co.kr/category/fashion/favicon.ico</icon>
 </feed>

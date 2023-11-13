@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vogue.co.kr/category/voguetv/</id>
-    <title>보그 코리아 ─ 비디오</title>
-    <updated>2023-11-13T18:17:23.178Z</updated>
+    <id>https://www.vogue.co.kr/category/shopping/</id>
+    <title>보그 코리아 ─ 쇼핑</title>
+    <updated>2023-11-13T19:13:38.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vogue.co.kr/category/voguetv/favicon.ico</icon>
+    <icon>https://www.vogue.co.kr/category/shopping/favicon.ico</icon>
 </feed>
